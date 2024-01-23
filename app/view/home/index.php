@@ -289,7 +289,7 @@
               <img class="img1" src="../public/img/Future.jpeg" alt="" />
               <img class="img2" src="https://static.vecteezy.com/system/resources/thumbnails/002/387/693/small/user-profile-icon-free-vector.jpg" alt="" />
               <div class="main-text">
-                <h2>Person One</h2>
+                <h2>Fadli</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, ipsam quia? Possimus voluptatem saepe sed hic nemo eaque, exercitationem id.</p>
               </div>
               <div class="socials">
