@@ -274,8 +274,8 @@
       <div class="row font-monospace p-5">
         <div class="col-md-3 mb-3">
           <div class="card">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Bu_Faradina.jpeg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Bu_Faradina.jpeg" alt="">
             <div class="main-text">
               <h2>Faradina, S.Kom</h2>
               <p>Mapel : Informatika</p>
@@ -289,8 +289,8 @@
         </div>
         <div class="col-md-3 mb-3">
           <div class="card">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Pak_Hanif.jpeg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Pak_Hanif.jpeg" alt="">
             <div class="main-text">
               <h2>Hanif Saeful Amin, S.Kom</h2>
               <p>Mapel : Pemrograman Web </p>
@@ -304,8 +304,8 @@
         </div>
         <div class="col-md-3 mb-3">
           <div class="card">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Bu_Eva.jpg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Bu_Eva.jpg" alt="">
             <div class="main-text">
               <h2>Eva Nurvaizah, S.Kom</h2>
               <p>Mapel : PBO</p>
@@ -319,8 +319,8 @@
         </div>
         <div class="col-md-3 mb-3">
           <div class="card">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Pak_Sukarno.jpg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Pak_Sukarno.jpg" alt="">
             <div class="main-text">
               <h2>Sukarno, S.Kom</h2>
               <p>Mapel : PBO</p>
@@ -332,8 +332,8 @@
         </div>
         <div class="col-md-4 mb-3">
           <div class="cardd">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Pak_Willy.jpg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Pak_Willy.jpg" alt="">
             <div class="main-text">
               <h2>Yoga Willy Utomo, S.Kom</h2>
               <p>Mapel : Pengembangan Perangkat Lunak</p>
@@ -347,8 +347,8 @@
         </div>
         <div class="col-md-4 mb-3">
           <div class="cardd">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Pak_Jundi.jpeg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Pak_Jundi.jpeg" alt="">
             <div class="main-text">
               <h2>Muhammad Jundi Hanif, S.Kom</h2>
               <p>Mapel : Mata pelajaran pilihan</p>
@@ -362,8 +362,8 @@
         </div>
         <div class="col-md-4">
           <div class="cardd">
-            <img class="img1" src="../public/image/assets/Future.jpeg" alt="">
-            <img class="img2" src="../public/image/guru/Bu_Ingga.jpg" alt="">
+            <img class="img1" src="../public/img/assets/Future.jpeg" alt="">
+            <img class="img2" src="../public/img/guru/Bu_Ingga.jpg" alt="">
             <div class="main-text">
               <h2>Ingga Rossi Rahmadani, S.Kom</h2>
               <p>Mapel : Pengembangan Perangkat Lunak</p>
