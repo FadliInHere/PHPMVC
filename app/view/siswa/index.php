@@ -3,14 +3,27 @@
     <h1>Daftar Siswa</h1>
 
     <table>
-        <tr>
+        <thead>
+            <tr>
             <td>No</td>
             <td>Nama</td>
         </tr>
-        <tr>
+        </thead>
+        
+        <tbody>
+
+
+        <?php
+        foreach($data['siswa'] as $sis)
+            ?>
+
+            <tr>
             <td>1</td>
-            <td><?= $data['nama'] ?></td>
-        </tr>
+            <td><?= $sis['nama']?></td>
+        
+            </tr>
+
+        </tbody>
     </table>
 </body>
 </html>

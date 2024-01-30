@@ -10,4 +10,9 @@ class Controller{
     public function Siswa($view, $data= []){
         require_once("../app/view/siswa/" . $view .".php");
     }
+
+    public function model($model){
+        require_once("../app/models/" . $model . ".php");
+        return new $model;
+    }
 }
