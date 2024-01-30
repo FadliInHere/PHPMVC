@@ -14,11 +14,12 @@
 
 
         <?php
+        $no = 1;
         foreach($data['siswa'] as $sis)
             ?>
 
             <tr>
-            <td>1</td>
+            <td><?= $no++ ?></td>
             <td><?= $sis['nama']?></td>
         
             </tr>
